@@ -6,11 +6,11 @@ Tutorial : https://www.youtube.com/watch?v=_12E5RMMNjE
 *Tool*
 ----
 ```
-Checkers : 
-* Amazon
-* PayPal
-* Office365 
-* Bounce Email 
+Bruter : 
+* Wordpress
+* Joomla
+* Drupal 
+* Opencart
 ```
 *Useful?*
 ----

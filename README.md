@@ -43,4 +43,4 @@ pip install colorama
 cd ManiacBruter
 python bruter.py
 ```
-<img src="screen.png">
+<img src="screen.PNG">
